@@ -1,0 +1,13 @@
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/bin/Debug/net8.0/ExternalUserService.deps.json
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/bin/Debug/net8.0/ExternalUserService.dll
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/bin/Debug/net8.0/ExternalUserService.pdb
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.csproj.AssemblyReference.cache
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.AssemblyInfoInputs.cache
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.AssemblyInfo.cs
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.csproj.CoreCompileInputs.cache
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.dll
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/refint/ExternalUserService.dll
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.pdb
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ref/ExternalUserService.dll
+/Users/diptejlad/VS_Code/ExternalUserServiceDemo/ExternalUserService/obj/Debug/net8.0/ExternalUserService.sourcelink.json
